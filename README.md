@@ -112,4 +112,12 @@ Este proyecto fue desarrollado por estudiantes de la asignatura **Proyecto Integ
 🌼 **Planta principal de estudio:** Crisantemo  
 ⚡ **Tecnologías usadas:** Arduino, C++, Electrónica de control  
 
----
+
+![Maceta 1](docs/maceta1.jpg)
+![Maceta 2](docs/maceta2.jpg)
+![Maceta 3](docs/maceta3.jpg)
+![Maceta 4](docs/maceta4.jpg)
+![Maceta 5](docs/maceta5.jpg)
+![Maceta 6](docs/maceta6.jpg)
+![Maceta 7](docs/maceta7.jpg)
+![Maceta 8](docs/maceta8.jpg)
